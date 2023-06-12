@@ -1,2 +1,2 @@
 # DesignPatterns
-This package demostrates how to implement different types of design pattern
+This package demonstrates how to implement different types of design pattern
